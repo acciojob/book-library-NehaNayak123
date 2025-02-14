@@ -16,13 +16,13 @@ h1{
 	margin:20px;
 	padding:20px
 }
-h3{
+h2{
 	color:#777777;
 }
 img{
 	height:200px
 }
-button{
+.btn{
 	background-color:green;
 	color:#2ecc71;
 	width:90%;
