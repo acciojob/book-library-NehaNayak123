@@ -23,6 +23,10 @@ h2{
 img{
 	height:200px
 }
+p{
+	
+	color:rgb(119, 119, 119);
+}
 .btn{
 	background-color:rgb(46, 204, 113);
 	color:white;
