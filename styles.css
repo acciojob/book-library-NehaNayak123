@@ -14,7 +14,8 @@ h1{
 	border:2px dashed lightgray;
 	text-align:center;
 	margin:20px;
-	padding:20px
+	padding:20px;
+	color:rgb(46, 204, 113);
 }
 h2{
 	color:#777777;
